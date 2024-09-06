@@ -1,4 +1,4 @@
-# ECP5 and FT2232HQ (in synchronous FIFO mode) Extension Board
+# Extension board for ECP5_BGA381_FT2232HQ_FIFO
 This is an extension board for the [ECP5_BGA381_FT2232HQ_FIFO](https://github.com/gildobjanschi/ECP5_BGA381_FT2232HQ_FIFO) board.
 
 ## Software
