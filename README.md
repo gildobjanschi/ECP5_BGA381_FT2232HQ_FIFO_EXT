@@ -1,4 +1,4 @@
-# ECP5 USB Development Extension Board
+# ECP5 and FT2232HQ (in synchronous FIFO mode) Extension Board
 This is an extension board for the ECP5_BGA381_FT2232HQ_FIFO main board.
 
 ## Software
