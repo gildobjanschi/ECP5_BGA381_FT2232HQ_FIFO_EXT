@@ -548,7 +548,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "2f4aa62e-5b88-4b4c-b43e-8416d0c1ca51")
 	)
-	(model "${ECP5_TX_AUDIO_EXT}/3dmodels/FLE-126-01-G-DV-K-TR.stp"
+	(model "${ECP5_BGA381_FT2232HQ_FIFO_EXT}/3dmodels/FLE-126-01-G-DV-K-TR.stp"
 		(offset
 			(xyz 0 0 0.15)
 		)

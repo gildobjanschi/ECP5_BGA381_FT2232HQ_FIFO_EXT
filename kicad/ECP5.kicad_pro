@@ -459,14 +459,16 @@
       "ECP5_USB_TO_I2S",
       "ECP5_USB_DEV",
       "ECP5_USB_DEV_EXT",
-      "ECP5_TX_AUDIO_EXT"
+      "ECP5_TX_AUDIO_EXT",
+      "ECP5_BGA381_FT2232HQ_FIFO_EXT"
     ],
     "pinned_symbol_libs": [
       "ECP5_RISCV",
       "ECP5_USB_TO_I2S",
       "ECP5_USB_DEV",
       "ECP5_USB_DEV_EXT",
-      "ECP5_TX_AUDIO_EXT"
+      "ECP5_TX_AUDIO_EXT",
+      "ECP5_BGA381_FT2232HQ_FIFO_EXT"
     ]
   },
   "meta": {

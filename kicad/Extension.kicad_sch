@@ -5278,7 +5278,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ECP5_TX_AUDIO_EXT:KEYSTONE_5197TR"
+		(property "Footprint" "ECP5_BGA381_FT2232HQ_FIFO_EXT:KEYSTONE_5197TR"
 			(at 27.94 179.07 0)
 			(effects
 				(font
@@ -5534,7 +5534,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ECP5_TX_AUDIO_EXT:SAMTEC_FLE-126-01-G-DV"
+		(property "Footprint" "ECP5_BGA381_FT2232HQ_FIFO_EXT:SAMTEC_FLE-126-01-G-DV"
 			(at 261.62 87.63 0)
 			(effects
 				(font
@@ -6081,7 +6081,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ECP5_TX_AUDIO_EXT:KEYSTONE_5197TR"
+		(property "Footprint" "ECP5_BGA381_FT2232HQ_FIFO_EXT:KEYSTONE_5197TR"
 			(at 43.18 179.07 0)
 			(effects
 				(font
@@ -6534,7 +6534,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ECP5_TX_AUDIO_EXT:KEYSTONE_5197TR"
+		(property "Footprint" "ECP5_BGA381_FT2232HQ_FIFO_EXT:KEYSTONE_5197TR"
 			(at 57.15 179.07 0)
 			(effects
 				(font
@@ -7618,7 +7618,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ECP5_TX_AUDIO_EXT:KEYSTONE_5197TR"
+		(property "Footprint" "ECP5_BGA381_FT2232HQ_FIFO_EXT:KEYSTONE_5197TR"
 			(at 71.12 179.07 0)
 			(effects
 				(font
@@ -7768,7 +7768,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ECP5_TX_AUDIO_EXT:KEYSTONE_5197TR"
+		(property "Footprint" "ECP5_BGA381_FT2232HQ_FIFO_EXT:KEYSTONE_5197TR"
 			(at 86.36 179.07 0)
 			(effects
 				(font
