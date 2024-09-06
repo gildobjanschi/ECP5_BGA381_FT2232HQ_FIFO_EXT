@@ -4,7 +4,7 @@ This is an extension board for the [ECP5_BGA381_FT2232HQ_FIFO](https://github.co
 ## Software
 
 ## How To setup KiCAD
-Checkout the KiCAD project and open it. In the Configure Paths dialog add: Name: ECP5_BGA381_FT2232HQ_FIFO_EXT and Path: <The full path to the GitHub directory>/GitHub/ECP5_BGA381_FT2232HQ_FIFO_EXT
+Checkout the KiCAD project and open it. In the Configure Paths dialog add: Name: ECP5_BGA381_FT2232HQ_FIFO_EXT and Path: "The full path to the GitHub directory"/GitHub/ECP5_BGA381_FT2232HQ_FIFO_EXT
 
 In the Manage Symbol Libraries click the Project Specific Libraries tab and add: Name: ECP5_BGA381_FT2232HQ_FIFO_EXT and Library Path: ${ECP5_BGA381_FT2232HQ_FIFO_EXT}/symbols/Symbols.kicad_sym
 
