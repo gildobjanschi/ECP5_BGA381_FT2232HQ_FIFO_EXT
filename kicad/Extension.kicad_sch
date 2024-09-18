@@ -6922,7 +6922,7 @@
 	)
 	(text "HDMI"
 		(exclude_from_sim no)
-		(at 162.56 187.96 0)
+		(at 161.036 188.214 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -7211,6 +7211,16 @@
 			(justify left bottom)
 		)
 		(uuid "c325f3f8-7260-4fd5-aceb-663f9ed09a57")
+	)
+	(text "GND"
+		(exclude_from_sim no)
+		(at 307.594 71.374 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ce698760-fa1c-4680-8082-76b14b2ea918")
 	)
 	(text "A"
 		(exclude_from_sim no)
@@ -9349,7 +9359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 115.57 128.27 0)
 			(effects
 				(font
@@ -9501,7 +9511,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 132.08 168.91 0)
 			(effects
 				(font
@@ -9718,7 +9728,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED GREEN CLEAR 2SMD"
 			(at 222.25 76.2 0)
 			(effects
 				(font
@@ -9872,7 +9882,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 223.52 210.82 0)
 			(effects
 				(font
@@ -9987,7 +9997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 4.7UF 35V X5R 0603"
 			(at 246.38 203.2 0)
 			(effects
 				(font
@@ -10101,7 +10111,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 39.37 128.27 0)
 			(effects
 				(font
@@ -10186,7 +10196,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Hex Inverter"
+		(property "Description" "IC INVERTER 6CH 1-INP 14TSSOP"
 			(at 38.1 246.38 0)
 			(effects
 				(font
@@ -10301,7 +10311,7 @@
 		(dnp no)
 		(uuid "1b55ec2c-2c7a-4525-b8be-e2932583537a")
 		(property "Reference" "U3"
-			(at 231.394 213.36 0)
+			(at 230.632 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10492,7 +10502,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED GREEN CLEAR 2SMD"
 			(at 205.74 76.2 0)
 			(effects
 				(font
@@ -10580,7 +10590,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Hex Inverter"
+		(property "Description" "IC INVERTER 6CH 1-INP 14TSSOP"
 			(at 137.16 236.22 0)
 			(effects
 				(font
@@ -10861,7 +10871,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 39.37 83.82 0)
 			(effects
 				(font
@@ -11246,7 +11256,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 72.39 74.93 0)
 			(effects
 				(font
@@ -11371,7 +11381,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "51907R"
+		(property "Value" "5197TR"
 			(at 294.386 30.734 0)
 			(effects
 				(font
@@ -11398,7 +11408,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "PC TEST POINT MINIATURE BLUE"
 			(at 292.1 31.75 0)
 			(effects
 				(font
@@ -11432,6 +11442,71 @@
 			(project "ECP5"
 				(path "/968e4a2d-0ddb-4369-8334-6b9cd7c9ac3a/61e66402-2089-43f0-88c3-2a4be23eb1c3"
 					(reference "TP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 307.34 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2c5b5bf2-b3fb-43a0-8e9e-5d53c26bd19f")
+		(property "Reference" "#PWR060"
+			(at 307.34 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 307.34 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 307.34 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 307.34 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 307.34 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "70cb4a56-2603-4c50-94aa-be384959ef1d")
+		)
+		(instances
+			(project "ECP5"
+				(path "/968e4a2d-0ddb-4369-8334-6b9cd7c9ac3a/61e66402-2089-43f0-88c3-2a4be23eb1c3"
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -11482,7 +11557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED GREEN CLEAR 2SMD"
 			(at 115.57 160.02 0)
 			(effects
 				(font
@@ -11569,7 +11644,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 205.74 85.09 0)
 			(effects
 				(font
@@ -11656,7 +11731,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 0.018UF 50V X7R 0603"
 			(at 276.86 203.2 0)
 			(effects
 				(font
@@ -11899,7 +11974,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, double row, 02x26, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "CONN RCPT 52POS 0.05 GOLD SMD"
 			(at 375.92 88.9 0)
 			(effects
 				(font
@@ -12426,7 +12501,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+		(property "Description" "CONN RCA JACK MONO 3.2MM R/A"
 			(at 114.3 222.25 0)
 			(effects
 				(font
@@ -12643,7 +12718,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 72.39 43.18 0)
 			(effects
 				(font
@@ -12731,7 +12806,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 4.7UF 35V X5R 0603"
 			(at 166.37 204.47 0)
 			(effects
 				(font
@@ -12845,7 +12920,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 39.37 34.29 0)
 			(effects
 				(font
@@ -12995,7 +13070,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Hex Inverter"
+		(property "Description" "IC INVERTER 6CH 1-INP 14TSSOP"
 			(at 57.15 228.6 0)
 			(effects
 				(font
@@ -13210,7 +13285,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 222.25 85.09 0)
 			(effects
 				(font
@@ -13363,7 +13438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED RED CLEAR 2SMD"
 			(at 167.64 138.43 0)
 			(effects
 				(font
@@ -13451,7 +13526,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 75 OHM 1% 1/10W 0603"
 			(at 86.36 228.6 0)
 			(effects
 				(font
@@ -13538,7 +13613,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 163.83 34.29 0)
 			(effects
 				(font
@@ -13756,7 +13831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED YELLOW CLEAR 2SMD"
 			(at 99.06 119.38 0)
 			(effects
 				(font
@@ -13909,7 +13984,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "PC TEST POINT MINIATURE BLUE"
 			(at 307.34 31.75 0)
 			(effects
 				(font
@@ -13993,7 +14068,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 72.39 83.82 0)
 			(effects
 				(font
@@ -14080,7 +14155,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 55.88 43.18 0)
 			(effects
 				(font
@@ -14167,7 +14242,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 88.9 43.18 0)
 			(effects
 				(font
@@ -14386,7 +14461,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 72.39 34.29 0)
 			(effects
 				(font
@@ -14669,7 +14744,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 10UF 16V X7R 0805"
 			(at 196.85 223.52 0)
 			(effects
 				(font
@@ -14783,7 +14858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 55.88 34.29 0)
 			(effects
 				(font
@@ -14935,7 +15010,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 750 OHM 1% 1/10W 0603"
 			(at 39.37 168.91 0)
 			(effects
 				(font
@@ -15021,7 +15096,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "SWITCH TACTILE SPST-NO 0.05A 12V"
 			(at 298.45 157.48 0)
 			(effects
 				(font
@@ -15108,7 +15183,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 60.96 168.91 0)
 			(effects
 				(font
@@ -15325,7 +15400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 750 OHM 1% 1/10W 0603"
 			(at 167.64 147.32 0)
 			(effects
 				(font
@@ -15412,7 +15487,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 93.98 222.25 0)
 			(effects
 				(font
@@ -15527,7 +15602,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "PC TEST POINT MINIATURE RED"
 			(at 292.1 54.61 0)
 			(effects
 				(font
@@ -15611,7 +15686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 39.37 43.18 0)
 			(effects
 				(font
@@ -15698,7 +15773,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 133.35 128.27 0)
 			(effects
 				(font
@@ -15850,7 +15925,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 55.88 74.93 0)
 			(effects
 				(font
@@ -15937,7 +16012,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED YELLOW CLEAR 2SMD"
 			(at 99.06 160.02 0)
 			(effects
 				(font
@@ -16155,7 +16230,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED GREEN CLEAR 2SMD"
 			(at 60.96 160.02 0)
 			(effects
 				(font
@@ -16305,7 +16380,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Hex Inverter"
+		(property "Description" "IC INVERTER 6CH 1-INP 14TSSOP"
 			(at 57.15 215.9 0)
 			(effects
 				(font
@@ -16455,7 +16530,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 111.76 43.18 0)
 			(effects
 				(font
@@ -16540,7 +16615,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Hex Inverter"
+		(property "Description" "IC INVERTER 6CH 1-INP 14TSSOP"
 			(at 59.69 246.38 0)
 			(effects
 				(font
@@ -16755,7 +16830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 60.96 128.27 0)
 			(effects
 				(font
@@ -16973,7 +17048,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 39.37 74.93 0)
 			(effects
 				(font
@@ -17189,7 +17264,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Hex Inverter"
+		(property "Description" "IC INVERTER 6CH 1-INP 14TSSOP"
 			(at 80.01 246.38 0)
 			(effects
 				(font
@@ -17339,7 +17414,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 111.76 34.29 0)
 			(effects
 				(font
@@ -17426,7 +17501,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED GREEN CLEAR 2SMD"
 			(at 60.96 119.38 0)
 			(effects
 				(font
@@ -17645,7 +17720,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "PC TEST POINT MINIATURE RED"
 			(at 321.31 54.61 0)
 			(effects
 				(font
@@ -17730,7 +17805,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "PC TEST POINT MINIATURE RED"
 			(at 336.55 54.61 0)
 			(effects
 				(font
@@ -17880,7 +17955,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 150 OHM 1% 1/10W 0603"
 			(at 78.74 222.25 0)
 			(effects
 				(font
@@ -17967,7 +18042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 128.27 43.18 0)
 			(effects
 				(font
@@ -18055,7 +18130,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 140.97 220.98 0)
 			(effects
 				(font
@@ -18234,7 +18309,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 132.08 160.02 0)
 			(effects
 				(font
@@ -18321,7 +18396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 115.57 168.91 0)
 			(effects
 				(font
@@ -18408,7 +18483,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 146.05 34.29 0)
 			(effects
 				(font
@@ -18560,7 +18635,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED GREEN CLEAR 2SMD"
 			(at 39.37 119.38 0)
 			(effects
 				(font
@@ -18620,7 +18695,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "HDMI_A"
+		(property "Value" "HDMI A"
 			(at 275.336 216.916 0)
 			(effects
 				(font
@@ -18647,7 +18722,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "HDMI type A connector"
+		(property "Description" "CONN RCPT 1.4 HDMI 19POS SMD R/A"
 			(at 284.48 243.84 0)
 			(effects
 				(font
@@ -18881,7 +18956,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED GREEN CLEAR 2SMD"
 			(at 115.57 119.38 0)
 			(effects
 				(font
@@ -19293,7 +19368,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 750 OHM 1% 1/10W 0603"
 			(at 99.06 168.91 0)
 			(effects
 				(font
@@ -19380,7 +19455,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 133.35 119.38 0)
 			(effects
 				(font
@@ -19532,7 +19607,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 128.27 34.29 0)
 			(effects
 				(font
@@ -19619,7 +19694,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 750 OHM 1% 1/10W 0603"
 			(at 99.06 128.27 0)
 			(effects
 				(font
@@ -19706,7 +19781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 146.05 43.18 0)
 			(effects
 				(font
@@ -19917,7 +19992,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 88.9 34.29 0)
 			(effects
 				(font
@@ -20136,7 +20211,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "PC TEST POINT MINIATURE RED"
 			(at 306.07 54.61 0)
 			(effects
 				(font
@@ -20220,7 +20295,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED YELLOW CLEAR 2SMD"
 			(at 39.37 160.02 0)
 			(effects
 				(font
@@ -20307,7 +20382,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 163.83 43.18 0)
 			(effects
 				(font
@@ -20460,7 +20535,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "PC TEST POINT MINIATURE BLACK"
 			(at 292.1 77.47 0)
 			(effects
 				(font
@@ -20469,7 +20544,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "51971R"
+		(property "MPN" "5191TR"
 			(at 292.1 77.47 0)
 			(effects
 				(font
@@ -20544,7 +20619,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 88.9 74.93 0)
 			(effects
 				(font
@@ -20629,7 +20704,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Hex Inverter"
+		(property "Description" "IC INVERTER 6CH 1-INP 14TSSOP"
 			(at 38.1 222.25 0)
 			(effects
 				(font
@@ -20843,7 +20918,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "FIXED IND 1UH 12A 9 MOHM SMD"
 			(at 181.61 199.39 0)
 			(effects
 				(font
@@ -20880,6 +20955,91 @@
 			(project ""
 				(path "/968e4a2d-0ddb-4369-8334-6b9cd7c9ac3a/61e66402-2089-43f0-88c3-2a4be23eb1c3"
 					(reference "L1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 307.34 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f706e1e2-19d3-48e3-b0b3-fb8bb450a823")
+		(property "Reference" "TP8"
+			(at 309.88 72.8979 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "5191TR"
+			(at 309.88 75.4379 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "ECP5_BGA381_FT2232HQ_FIFO_EXT:KEYSTONE_5197TR"
+			(at 312.42 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 312.42 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "PC TEST POINT MINIATURE BLACK"
+			(at 307.34 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "5191TR"
+			(at 307.34 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Keystone Electronics"
+			(at 307.34 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6b05b1f7-7249-489f-b3c3-a33ba4fc885b")
+		)
+		(instances
+			(project "ECP5"
+				(path "/968e4a2d-0ddb-4369-8334-6b9cd7c9ac3a/61e66402-2089-43f0-88c3-2a4be23eb1c3"
+					(reference "TP8")
 					(unit 1)
 				)
 			)
@@ -21060,7 +21220,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 55.88 83.82 0)
 			(effects
 				(font
@@ -21212,7 +21372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 88.9 83.82 0)
 			(effects
 				(font

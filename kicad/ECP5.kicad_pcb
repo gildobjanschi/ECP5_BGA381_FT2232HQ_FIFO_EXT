@@ -304,7 +304,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED YELLOW CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -566,7 +566,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -828,7 +828,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "SWITCH TACTILE SPST-NO 0.05A 12V"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1156,7 +1156,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 0.018UF 50V X7R 0603"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1435,7 +1435,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1697,7 +1697,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1959,7 +1959,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED GREEN CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2374,7 +2374,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 4.7UF 35V X5R 0603"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2653,7 +2653,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2915,7 +2915,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3177,7 +3177,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 10UF 16V X7R 0805"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3762,7 +3762,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED RED CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4024,7 +4024,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4283,7 +4283,7 @@
 				)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "PC TEST POINT MINIATURE RED"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4543,7 +4543,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4805,7 +4805,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 75 OHM 1% 1/10W 0603"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5007,7 +5007,7 @@
 				)
 			)
 		)
-		(property "Value" "51907R"
+		(property "Value" "5197TR"
 			(at 7.775 3.385 0)
 			(layer "F.Fab")
 			(uuid "26f18751-8777-44ae-ad91-1b3f2760b80f")
@@ -5042,7 +5042,7 @@
 				)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "PC TEST POINT MINIATURE BLUE"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5302,7 +5302,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED YELLOW CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5564,7 +5564,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5826,7 +5826,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6088,7 +6088,7 @@
 				)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "FIXED IND 1UH 12A 9 MOHM SMD"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6328,7 +6328,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED GREEN CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7466,7 +7466,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7728,7 +7728,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7986,7 +7986,7 @@
 				)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "PC TEST POINT MINIATURE BLACK"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7998,7 +7998,7 @@
 				)
 			)
 		)
-		(property "MPN" "51971R"
+		(property "MPN" "5191TR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8244,7 +8244,7 @@
 				)
 			)
 		)
-		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+		(property "Description" "CONN RCA JACK MONO 3.2MM R/A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9228,7 +9228,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9507,7 +9507,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED GREEN CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10111,7 +10111,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED GREEN CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10373,7 +10373,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED GREEN CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10632,7 +10632,7 @@
 				)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "PC TEST POINT MINIATURE BLACK"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10644,7 +10644,7 @@
 				)
 			)
 		)
-		(property "MPN" "51971R"
+		(property "MPN" "5191TR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10889,7 +10889,7 @@
 				)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "PC TEST POINT MINIATURE BLUE"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11302,7 +11302,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 150 OHM 1% 1/10W 0603"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11542,7 +11542,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11804,7 +11804,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12027,7 +12027,7 @@
 				)
 			)
 		)
-		(property "Value" "HDMI_A"
+		(property "Value" "HDMI A"
 			(at 6.2 9.415 0)
 			(layer "F.Fab")
 			(uuid "6fd7d7c4-f8a1-41d4-9baa-17637688020c")
@@ -12062,7 +12062,7 @@
 				)
 			)
 		)
-		(property "Description" "HDMI type A connector"
+		(property "Description" "CONN RCPT 1.4 HDMI 19POS SMD R/A"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12659,7 +12659,7 @@
 				)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "PC TEST POINT MINIATURE RED"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12919,7 +12919,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED BLUE CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13181,7 +13181,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED GREEN CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13443,7 +13443,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED YELLOW CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13702,7 +13702,7 @@
 				)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "PC TEST POINT MINIATURE RED"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13959,7 +13959,7 @@
 				)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "PC TEST POINT MINIATURE RED"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14219,7 +14219,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 4.7UF 35V X5R 0603"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14924,7 +14924,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED GREEN CLEAR 2SMD"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15186,7 +15186,7 @@
 				)
 			)
 		)
-		(property "Description" "Hex Inverter"
+		(property "Description" "IC INVERTER 6CH 1-INP 14TSSOP"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15265,7 +15265,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP*W7.62mm* SSOP?14* TSSOP?14*")
-		(path "/61e66402-2089-43f0-88c3-2a4be23eb1c3/f2f2e9e6-e34f-457a-a25a-06236963472b")
+		(path "/61e66402-2089-43f0-88c3-2a4be23eb1c3/9402b707-6010-4ba7-b835-d5fdde4ece5a")
 		(sheetname "Extension")
 		(sheetfile "Extension.kicad_sch")
 		(attr smd)
@@ -15621,7 +15621,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -15869,7 +15869,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16117,7 +16117,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16365,7 +16365,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 750 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16613,7 +16613,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16861,7 +16861,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17109,7 +17109,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17357,7 +17357,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 750 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17605,7 +17605,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17853,7 +17853,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18101,7 +18101,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 750 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18349,7 +18349,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18597,7 +18597,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18845,7 +18845,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -19093,7 +19093,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -19341,7 +19341,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -19589,7 +19589,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -19879,7 +19879,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -20127,7 +20127,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 750 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -20371,7 +20371,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Generic connector, double row, 02x26, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "CONN RCPT 52POS 0.05 GOLD SMD"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -21172,7 +21172,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21420,7 +21420,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21668,7 +21668,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21916,7 +21916,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -22164,7 +22164,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -22412,7 +22412,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -22660,7 +22660,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES SMD 330 OHM 1% 1/10W 0603"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -22908,7 +22908,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0603"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
