@@ -2,7 +2,7 @@
 This is an extension board for the [ECP5_BGA381_FT2232HQ_FIFO](https://github.com/gildobjanschi/ECP5_BGA381_FT2232HQ_FIFO) board. It is used to validate the main board design and to provide audio output connectors for I2S (HDMI) and SPDIF (Coaxial).
 
 ## Software
-The software that supports this board is located in the main board [ECP5_BGA381_FT2232HQ_FIFO](https://github.com/gildobjanschi/ECP5_BGA381_FT2232HQ_FIFO/tree/main/hdl) project. The [host software](https://github.com/gildobjanschi/ECP5_BGA381_FT2232HQ_FIFO/tree/main/host) is an application for testing as well and exercising the audio output of the board.
+The software that supports this board is located in the main board [ECP5_BGA381_FT2232HQ_FIFO](https://github.com/gildobjanschi/ECP5_BGA381_FT2232HQ_FIFO/tree/main/hdl) project. The [host software](https://github.com/gildobjanschi/ECP5_BGA381_FT2232HQ_FIFO/tree/main/host_macosx) is an application for testing as well and exercising the audio output of the board.
 
 ## How To setup KiCAD
 Checkout the KiCAD project and open it. In the Configure Paths dialog add: Name: ECP5_BGA381_FT2232HQ_FIFO_EXT and Path: "The full path to the GitHub directory"/GitHub/ECP5_BGA381_FT2232HQ_FIFO_EXT
