@@ -6392,7 +6392,7 @@
 		)
 		(uuid "047a43ac-46c1-40f0-9170-3f93c5a0bcc2")
 	)
-	(text "RCA"
+	(text "COAX"
 		(exclude_from_sim no)
 		(at 19.05 188.468 0)
 		(effects
@@ -6653,6 +6653,16 @@
 		)
 		(uuid "88e1f53e-b684-48c6-9e55-400fe8c7ff69")
 	)
+	(text "Measured: W/ no load 1Vpp"
+		(exclude_from_sim no)
+		(at 114.3 206.756 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8b3beece-0435-491f-8758-146dcc2917ba")
+	)
 	(text "96KHZ"
 		(exclude_from_sim no)
 		(at 128.27 18.796 0)
@@ -6787,6 +6797,16 @@
 			)
 		)
 		(uuid "deca8770-4a4b-44c9-ba0f-340e390f17b1")
+	)
+	(text "Measured: 1Vpp"
+		(exclude_from_sim no)
+		(at 81.788 206.756 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e0364205-e78f-4825-a0e7-0770b4eb3da3")
 	)
 	(text "384KHZ"
 		(exclude_from_sim no)
