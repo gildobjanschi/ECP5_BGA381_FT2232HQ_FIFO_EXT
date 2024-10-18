@@ -16,4 +16,4 @@ Checkout the KiCAD project and open it. In the Configure Paths dialog add: Name:
 
 In the Manage Symbol Libraries click the Project Specific Libraries tab and add: Name: ECP5_BGA381_FT2232HQ_FIFO_EXT and Library Path: ${ECP5_BGA381_FT2232HQ_FIFO_EXT}/symbols/Symbols.kicad_sym
 
-In the Manage Footprint Libraries click the Project Specific Libraries tab and add: Name: ECP5_BGA381_FT2232HQ_FIFO_EXT and Library Path: ${ECP5_BGA381_FT2232HQ_FIFO_EXT}/footprints/Footprints.kicad_sym
+In the Manage Footprint Libraries click the Project Specific Libraries tab and add: Name: ECP5_BGA381_FT2232HQ_FIFO_EXT and Library Path: ${ECP5_BGA381_FT2232HQ_FIFO_EXT}/footprints/Footprints.pretty
